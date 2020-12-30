@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-[ELK Stack Diagram](/images/ELK Stack Diagram.png)
+[ELK Stack Diagram](https://github.com/scottydouglas/Cybersecurity-Bootcamp-Project-1/blob/main/Images/ELK%20Stack%20Diagram.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
