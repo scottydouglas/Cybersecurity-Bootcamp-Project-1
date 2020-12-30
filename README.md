@@ -10,10 +10,10 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
 Ansible Playbooks
 
-- Elk
-- DVWA
-- Filebeat
-- Metricbeat
+- [Elk](https://github.com/scottydouglas/Cybersecurity-Bootcamp-Project-1/blob/main/Ansible/elk.yml)
+- [DVWA](https://github.com/scottydouglas/Cybersecurity-Bootcamp-Project-1/blob/main/Ansible/dvwa.yml)
+- [Filebeat](https://github.com/scottydouglas/Cybersecurity-Bootcamp-Project-1/blob/main/Ansible/filebeat.yml)
+- [Metricbeat](https://github.com/scottydouglas/Cybersecurity-Bootcamp-Project-1/blob/main/Ansible/metricbeat.yml)
 
 This document contains the following details:
 - Description of the Topology
