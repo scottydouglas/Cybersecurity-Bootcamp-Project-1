@@ -62,10 +62,10 @@ A summary of the access policies in place can be found in the table below.
 | Name          | Public Access | Whitelisted IP Addresses |
 |---------------|---------------|--------------------------|
 | Jump Box      | Yes           | 24.212.205.42            |
-| Web-1         | No            | 10.0.0.4                 |
-| Web-2         | No            | 10.0.0.6                 |
+| Web-1         | No            | 10.0.0.5                 |
+| Web-2         | No            | 10.0.0.5                 |
 | ELK Server    | Yes           | 24.212.205.42            |
-| Load Balancer | Yes           | 24.212.205.42            |
+| Load Balancer | Yes           | 10.0.0.5 / 24.212.205.42 |
 
 ### Elk Configuration
 
