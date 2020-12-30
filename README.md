@@ -102,10 +102,10 @@ In order to use the playbook, you will need to have an Ansible control node alre
 
 SSH into the control node and follow the steps below:
 - Copy the filebeat-config.yml file to /etc/ansible.
-- Update the filebeat-config.yml file to include:
-	
-- An updated username and password
-- Replace the IP address with the IP address of your ELK server
+
+- Update the filebeat-config.yml file to include:	
+  - An updated username and password
+  - Replace the IP address with the IP address of your ELK server
   - Output.elasticsearch:
   - hosts: ["10.1.0.4:9200"]
   - username: "elastic"
