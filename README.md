@@ -15,6 +15,10 @@ Ansible Playbooks
 - [Filebeat](https://github.com/scottydouglas/Cybersecurity-Bootcamp-Project-1/blob/main/Ansible/filebeat.yml)
 - [Metricbeat](https://github.com/scottydouglas/Cybersecurity-Bootcamp-Project-1/blob/main/Ansible/metricbeat.yml)
 
+Config Files
+
+- [Filebeat](https://github.com/scottydouglas/Project-1/blob/main/Ansible/filebeat-config.yml)
+
 This document contains the following details:
 - Description of the Topology
 - Access Policies
